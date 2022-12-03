@@ -1,0 +1,16 @@
+@import "header.css";
+@import "navbar.css";
+@import "index";
+@import "character.css";
+@import "planet.css";
+@import "characterDetail.css";
+@import "flim.css";
+@import "favorite.css";
+
+body{
+  background-image: url("/public/galaxy2.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: repeat;
+
+}

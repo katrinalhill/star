@@ -1,0 +1,7 @@
+.character-details-container{
+  display: grid;
+  min-height: 50vh;
+  width: 100%;
+  grid-template-columns: repeat(5,1fr);
+  justify-items: center;
+  }
